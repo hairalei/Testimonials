@@ -10,7 +10,7 @@ function Review({ users, setActive, active }) {
       <div
         id={id}
         key={id}
-        className="flex flex-col justify-center items-center mx-auto max-w-2xl max-h-2xl min-h-[580px] w-full bg-white px-16 hide review shadow-xl rounded-lg gap-2 relative "
+        className="flex flex-col justify-center items-center mx-auto max-w-2xl max-h-2xl min-h-[550px] w-full bg-white px-16 hide review shadow-xl rounded-lg gap-2 relative "
       >
         <div className="relative -mt-24 ">
           <FaQuoteRight className="w-10 h-10 p-3 rounded-full text-white bg-blue-400 absolute z-50"></FaQuoteRight>

@@ -53,7 +53,7 @@ function App() {
       <h1 className="text-6xl text-slate-800   font-semibold mb-6 ">
         Testimonials
       </h1>
-      <div className="h-1 w-24 bg-blue-400 mb-16"></div>
+      <div className="h-1 w-24 bg-blue-400 mb-10"></div>
 
       <div className="review-cont">
         <Review users={users} setActive={setActive} active={active} />
